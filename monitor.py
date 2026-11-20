@@ -25,7 +25,7 @@ SITES_FILE = "sites.txt"
 STATE_FILE = "status.json"
 TIMEOUT_SECONDS = 20          # how long to wait for a site to answer
 RETRY_DELAY_SECONDS = 15      # wait this long, then re-check before calling it DOWN
-REMIND_EVERY_MINUTES = 60     # "still down" reminder; set to 0 to turn off
+REMIND_EVERY_MINUTES = 120     # "still down" reminder; set to 0 to turn off
 KEEPALIVE_DAYS = 30           # small commit so GitHub never pauses the schedule
 LOCAL_TZ = timezone(timedelta(hours=7))   # times in messages: Phnom Penh (UTC+7)
 USER_AGENT = "Mozilla/5.0 (compatible; UptimeMonitor/1.0)"
