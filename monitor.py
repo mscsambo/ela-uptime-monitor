@@ -32,7 +32,7 @@ REMIND_EVERY_MINUTES = 60     # "still down" reminder; set to 0 to turn off
 KEEPALIVE_DAYS = 30           # small commit so GitHub never pauses the schedule
 LOCAL_TZ = timezone(timedelta(hours=7))   # times in messages: Phnom Penh (UTC+7)
 TZ_LABEL = "UTC+7"
-TEAM_NAME = "Website Monitor"  # shown at the top of every message
+TEAM_NAME = "ELA - Website Monitor"  # shown at the top of every message
 USER_AGENT = "Mozilla/5.0 (compatible; UptimeMonitor/1.0)"
 # ----------------------------------------------------------
 
