@@ -1,8 +1,8 @@
 # Put one website per line. "https://" is added automatically if you leave it out.
 # Lines starting with # are ignored.
 
-yourdomain1.com
-yourdomain2.com
-yourdomain3.com
-yourdomain4.com
-yourdomain5.com
+https://ela-system.space/
+https://ela-classroom.com/
+https://ela-testing.com/
+https://expert-hr.online/
+https://experteducation-fair.online/
