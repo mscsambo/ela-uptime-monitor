@@ -1,0 +1,35 @@
+{
+  "last_saved": "2026-11-20T03:06:46.883641+00:00",
+  "sites": {
+    "https://ela-classroom.com/": {
+      "detail": "OK (HTTP 200)",
+      "last_alert": "2026-11-20T03:06:46.883641+00:00",
+      "since": "2026-11-20T03:06:46.883641+00:00",
+      "up": true
+    },
+    "https://ela-system.space/": {
+      "detail": "OK (HTTP 200)",
+      "last_alert": "2026-11-20T03:06:46.883641+00:00",
+      "since": "2026-11-20T03:06:46.883641+00:00",
+      "up": true
+    },
+    "https://ela-testing.com/": {
+      "detail": "OK (HTTP 200)",
+      "last_alert": "2026-11-20T03:06:46.883641+00:00",
+      "since": "2026-11-20T03:06:46.883641+00:00",
+      "up": true
+    },
+    "https://expert-hr.online/": {
+      "detail": "OK (HTTP 200)",
+      "last_alert": "2026-11-20T03:06:46.883641+00:00",
+      "since": "2026-11-20T03:06:46.883641+00:00",
+      "up": true
+    },
+    "https://experteducation-fair.online/": {
+      "detail": "OK (HTTP 200)",
+      "last_alert": "2026-11-20T03:06:46.883641+00:00",
+      "since": "2026-11-20T03:06:46.883641+00:00",
+      "up": true
+    }
+  }
+}
